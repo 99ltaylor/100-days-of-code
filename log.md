@@ -12,7 +12,7 @@
 **Thoughts:** J supported me. Was great to see how to use Terminal on mac, and learnt how to push changes to my online repo.
 **Link to work:**
 
-### Day 2: 17 March 2021
+### Day 3: 18 March 2021
 **Today's Progress**: worked on same page
 **Thoughts:** clarified idea. starting to make the message of the product, and the current problem clearer.
 **Link to work:**
